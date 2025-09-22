@@ -7,10 +7,10 @@ This repository contains my professional development certificates from various i
 
 | Certificate | Company | Focus Area | Date | Skills |
 |-------------|---------|------------|------|--------|
-| [AWS Solutions Architecture](./aws-certificate/) | AWS APAC | Cloud Architecture | Sep 2025 | Elastic Beanstalk, Architecture Design, Cost Analysis |
-| [Data Analytics](./deloitte-certificate/) | Deloitte Australia | Data Analytics & Forensics | Sep 2025 | Tableau, Excel, Forensic Technology |
-| [Data Analytics & Visualization](./accenture-certificate/) | Accenture North America | Social Media Analytics | Aug 2024 | Excel, PowerPoint, Data Modeling |
-| [Data Visualisation](./tata-certificate/) | Tata Group | Business Intelligence | Aug 2024 | Tableau, Power BI, Revenue Analysis |
+| [AWS Solutions Architecture]([./aws-certificate/](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_fmPPaS2sZ4aRdu232_1722615296327_completion_certificate.pdf)) | AWS APAC | Cloud Architecture | Sep 2025 | Elastic Beanstalk, Architecture Design, Cost Analysis |
+| [Data Analytics]([./deloitte-certificate/](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_fmPPaS2sZ4aRdu232_1758354129105_completion_certificate.pdf)) | Deloitte Australia | Data Analytics & Forensics | Sep 2025 | Tableau, Excel, Forensic Technology |
+| [Data Analytics & Visualization]([./accenture-certificate/](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_fmPPaS2sZ4aRdu232_1722541066601_completion_certificate.pdf)) | Accenture North America | Social Media Analytics | Aug 2024 | Excel, PowerPoint, Data Modeling |
+| [Data Visualisation]([./tata-certificate/](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_fmPPaS2sZ4aRdu232_1722615296327_completion_certificate.pdf)) | Tata Group | Business Intelligence | Aug 2024 | Tableau, Power BI, Revenue Analysis |
 
 ## 🛠️ Technical Skills Demonstrated
 
